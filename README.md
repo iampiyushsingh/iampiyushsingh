@@ -1,16 +1,52 @@
-## Hi there 👋
+#  Hi, I'm Piyush Kumar Singh 
 
-<!--
-**iampiyushsingh/iampiyushsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI & ML) Student at VIT Bhopal 
+enrolled for 2025-2029 batch
+Passionate about AI, Web Development & Problem Solving  
+Building projects, learning daily, and growing step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+-  Exploring Artificial Intelligence & Machine Learning  
+-  Skilled in Basic Java and Python  
+-  Currently learning: Java DSA & ML  
+-  Goal: Become a top AI Engineer  
+
+---
+
+##  Tech Stack
+
+###  Languages
+- Python 
+- Java
+- Html
+- Logo 
+
+###  Frontend
+- HTML 
+
+###  Tools & Platforms
+-  GitHub  
+- VS Code    
+
+---
+
+
+
+## 🌐 Connect With Me
+
+-  LinkedIn: www.linkedin.com/in/piyush-kumar-singhh-811051380
+-  Email: piyush.kumar.singh.kingg@gmail.com 
+
+---
+
+##  Fun Fact
+
+I love doing coding and playing sports as cricket and reading books in free time
+I hope learn great deal of coding and be a successful AIML coder
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
