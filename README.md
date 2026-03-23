@@ -28,14 +28,14 @@ Building projects, learning daily, and growing step by step
 - HTML 
 
 ###  Tools & Platforms
--  GitHub  
+- GitHub  
 - VS Code    
 
 ---
 
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 -  LinkedIn: www.linkedin.com/in/piyush-kumar-singhh-811051380
 -  Email: piyush.kumar.singh.kingg@gmail.com 
@@ -44,9 +44,9 @@ Building projects, learning daily, and growing step by step
 
 ##  Fun Fact
 
-I love doing coding and playing sports as cricket and reading books in free time
+I love doing coding and playing sports such as cricket and reading books in free time
 I hope learn great deal of coding and be a successful AIML coder
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn’t work hard.”*
+ *“Consistency beats talent when talent doesn’t work hard.”*
