@@ -33,6 +33,8 @@ Building projects, learning daily, and growing step by step
 
 ---
 
+### Digital literacy test link 
+   - https://docs.google.com/forms/d/e/1FAIpQLSccSN0F6CLnAV84ZlkppG8-wJb_9PRZizteogeM6xSTqDwEiw/viewform?usp=publish-editor
 
 
 ##  Connect With Me
